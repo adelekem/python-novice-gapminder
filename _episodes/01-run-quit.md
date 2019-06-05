@@ -258,7 +258,7 @@ more details, then see the [official notebook documentation][jupyterlab-notebook
 
 ### Use the keyboard and mouse to select and edit cells.
 
-*   Pressing the <kbd>Return</kbd> key turns the border blue and engages Edit mode, which allows 
+*   Pressing the <kbd>Enter</kbd> key turns the border blue and engages Edit mode, which allows 
     you to type within the cell.
 *   Because we want to be able to write many lines of code in a single cell,
     pressing the <kbd>Return</kbd> key when in Edit mode (blue) moves the cursor to the next line 
